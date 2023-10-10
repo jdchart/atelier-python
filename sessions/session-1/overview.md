@@ -105,3 +105,4 @@ pip install requirements.txt
 
 ## Premier script python !
 
+Créer un [premier script](/sessions/session-1/premier-script.py) dans Python !
