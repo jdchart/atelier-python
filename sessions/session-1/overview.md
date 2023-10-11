@@ -7,6 +7,7 @@ _La première séance est consacrée à la mise en place d'un environnment de tr
 3. [Installation d'un IDE (VS Code)](#installation-dun-ide-vs-code)
 4. [Installation de git](#installation-de-git)
 5. [Les environnments virtuels](#les-environnments-virtuels)
+6. [Premier script en python](#premier-script-python)
 
 ## Terminal
 
