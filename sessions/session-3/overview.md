@@ -2,6 +2,11 @@
 
 _Dans cette séance nous allons voir les bases pour travailler avec les données - ouvrir des fichiers, créer des fichiers, convertir de fichiers en un autre format._
 
+1. [Où trouver les données?](#où-trouver-les-données)
+2. [Manipuler les fichiers][#manipuler-les-fichiers]
+3. [Créer des fichiers](#créer-des-fichiers)
+4. [Convertion](#convertion)
+
 ## Où trouver les données ?
 
 Structure de differents formats:
