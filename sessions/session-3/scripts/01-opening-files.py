@@ -8,8 +8,10 @@ import xml.etree.ElementTree as ET
 
 file_path = os.path.join(os.getcwd(), "sessions", "session-3", "data", "xml-example.xml")
 
-def process(path, method = "txt"):
+def process(path):
     if os.path.isfile(path):
+
+        method = os.path.splitext(path)[1]
         
         if method == "txt":
             content = read_txt_file(path)

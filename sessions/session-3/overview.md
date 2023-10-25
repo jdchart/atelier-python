@@ -6,6 +6,7 @@ _Dans cette séance nous allons voir les bases pour travailler avec les données
 2. [Manipuler les fichiers](#manipuler-les-fichiers)
 3. [Créer des fichiers](#créer-des-fichiers)
 4. [Convertion](#convertion)
+5. [Fichier utils](#fichier-utils)
 
 ## Où trouver les données ?
 
@@ -59,3 +60,7 @@ Fonctions de base:
 
 - CSV vers JSON.
 - JSON vers XML.
+
+## Fichier utils
+
+Je mets à disposition un [fichier utils](/sessions/session-3/scripts/utils.py) qui reprend les fonctionalités de base d'ouverture et d'écriture des fichiers que vous pouvez utiliser chez vous.
