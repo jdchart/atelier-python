@@ -1,0 +1,31 @@
+{
+    "people" : [
+        {
+            "Name": "John Doe",
+            "Age": 30,
+            "Email": "johndoe@email.com",
+            "Phone": 5551234567
+        },
+        {
+            "Name": "Jane Smith",
+            "Age": 25,
+            "Email": "janesmith@email.com",
+            "Phone": 5559876543
+        },
+        {
+            "Name": "Bob Johnson",
+            "Age": 35,
+            "Email": "bobjohnson@email.com",
+            "Phone": 5557891234
+        },
+        {
+            "Name": "Alice Brown",
+            "Age": 28,
+            "Email": "alicebrown@email.com",
+            "Phone": 5554567890
+        }
+    ]
+}
+
+
+

@@ -1,0 +1,29 @@
+<People>
+  <Person>
+    <Name>John Doe</Name>
+    <Age>30</Age>
+    <Email>johndoe@email.com</Email>
+    <Phone>5551234567</Phone>
+  </Person>
+
+  <Person>
+    <Name>Jane Smith</Name>
+    <Age>25</Age>
+    <Email>janesmith@email.com</Email>
+    <Phone>5559876543</Phone>
+  </Person>
+
+  <Person>
+    <Name>Bob Johnson</Name>
+    <Age>35</Age>
+    <Email>bobjohnson@email.com</Email>
+    <Phone>5557891234</Phone>
+  </Person>
+
+  <Person>
+    <Name>Alice Brown</Name>
+    <Age>28</Age>
+    <Email>alicebrown@email.com</Email>
+    <Phone>5554567890</Phone>
+  </Person>
+</People>

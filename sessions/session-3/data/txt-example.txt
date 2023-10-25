@@ -1,0 +1,3 @@
+John Doe is 30. His email is johndoe@email.com and his phone number is 5551234567.
+Jane Smith is younger, she is 25. Her email is janesmith@email.com and her phone number is 5559876543.
+Bob Johnson and Alice Brown are 35 and 28 respectively. Their emails are bobjohnson@email.com and alicebrown@email.com, and their numbers are 5557891234 and 5554567890.
