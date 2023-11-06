@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 def read_csv(path : str, delimiter : str = ',', quotechar : str = '"') -> list[list]:
     """Donner le chemin vers un fichier csv et retourner une liste en 2 dimensions."""
     if os.path.isfile(path):
-        if os.path.splitext[1].lower() == "csv":
+        if os.path.splitext(path)[1].lower() == ".csv":
             content = []
             with open(path, 'r') as f:
                 csv_reader = csv.reader(f, delimiter = delimiter, quotechar = quotechar)
@@ -21,7 +21,7 @@ def read_csv(path : str, delimiter : str = ',', quotechar : str = '"') -> list[l
 def read_json(path : str) -> dict:
     """Donner le chemin vers un fichier json et retourner un dict."""
     if os.path.isfile(path):
-        if os.path.splitext[1].lower() == "json":
+        if os.path.splitext(path)[1].lower() == ".json":
             with open(path, 'r') as f:
                 return json.load(f)
         else:
@@ -32,7 +32,7 @@ def read_json(path : str) -> dict:
 def read_txt(path : str) -> str:
     """Donner le chemin vers un fichier txt et retourner un string."""
     if os.path.isfile(path):
-        if os.path.splitext[1].lower() == "txt":
+        if os.path.splitext(path)[1].lower() == ".txt":
             with open(path, 'r') as f:
                 return f.read()
         else:
@@ -43,7 +43,7 @@ def read_txt(path : str) -> str:
 def read_xml(path : str) -> ET:
     """Donner le chemin vers un fichier xml et retourner un arbre xml."""
     if os.path.isfile(path):
-        if os.path.splitext[1].lower() == "xml":
+        if os.path.splitext(path)[1].lower() == ".xml":
             tree = ET.parse(path)
             root = tree.getroot()
             return root
@@ -58,7 +58,7 @@ def write_json(path : str, content : dict, indent : int = 4) -> None:
     
     Si le dossier n'existe pas, cette fonction créera le dossier de manière récursive.
     """
-    if os.path.splitext(path)[1] == "json":
+    if os.path.splitext(path)[1] == ".json":
         check_dir_exists(path)
 
         with open(path, 'w', encoding='utf-8') as f:
@@ -72,7 +72,7 @@ def write_txt(path : str, content : str) -> None:
     
     Si le dossier n'existe pas, cette fonction créera le dossier de manière récursive.
     """
-    if os.path.splitext(path)[1] == "txt":
+    if os.path.splitext(path)[1] == ".txt":
         check_dir_exists(path)
 
         with open(path, 'w') as f:
@@ -86,7 +86,7 @@ def write_csv(path : str, content : list[list]) -> None:
     
     Si le dossier n'existe pas, cette fonction créera le dossier de manière récursive.
     """
-    if os.path.splitext(path)[1] == "csv":
+    if os.path.splitext(path)[1] == ".csv":
         check_dir_exists(path)
 
         with open(path, mode='w') as f:
@@ -102,7 +102,7 @@ def write_xml(path : str, content : ET) -> None:
     
     Si le dossier n'existe pas, cette fonction créera le dossier de manière récursive.
     """
-    if os.path.splitext(path)[1] == "xml":
+    if os.path.splitext(path)[1] == ".xml":
         check_dir_exists(path)
 
         content.write(path)
