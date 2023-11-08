@@ -5,6 +5,7 @@ _Dans cette séance nous allons commencer à faire des choses avec nos données!
 1. [Modules](#modules)
 2. [matplotlib](#matplotlib)
 3. [networkx](#networkx)
+4. [scikit-learn](#scikit-learn)
 
 ## Modules
 
@@ -46,6 +47,11 @@ pip install networkx
 pip install scikit-learn
 ```
 
+On aura egalement besoin de numpy:
+```shell
+pip install numpy
+```
+
 ## Matplotlib
 
 [Matplotlib](https://matplotlib.org/) est une module pour la visualization de données en python.
@@ -74,5 +80,13 @@ pip install scikit-learn
 
 ## scikit-learn
 
+- Un point sur numpy - qu'est-ce que c'est? Pourquoi l'utiliser?
+
 [scikit-learn](https://scikit-learn.org/stable/) est une module d'analyse des données qui met à disposition beaucoup d'algorithmes de machine learning et d'intelligence artificielle.
 
+- Pre/post processing
+- Réduction de la dimensionalité
+- Normalization
+- Clusters
+- Visualization
+- Voisin le plus proche

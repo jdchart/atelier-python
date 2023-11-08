@@ -39,6 +39,5 @@ def save_np_to_csv(np_data, path):
 #rand_data = create_random_n_dims()
 #save_np_to_csv(rand_data, os.path.join(os.getcwd(), "sessions", "session-4", "data", "random_data.csv"))
 
-
 #net = random_network()
 #utils.write_json(os.path.join(os.getcwd(), "sessions", "session-4", "data", "random_network.json"), net)
