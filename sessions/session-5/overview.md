@@ -50,5 +50,6 @@ pip install beautifulsoup4
 
 - C'est quoi un RESTful API ?
 - GET, PUT, POST et DELETE (requests.get(), requests.put(), requests.post(), requests.delete())
+- url parameters (?, = et &)
 
 Exemple: l'API de [Nakala](https://api.nakala.fr/doc)
