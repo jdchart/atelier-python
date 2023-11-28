@@ -10,8 +10,8 @@ import utils
 import os
 import create_data
 
-#src = "sessions/session-4/data/random_network.json"
-src = create_data.random_network(10, 20)
+src = "sessions/session-4/data/random_network.json"
+#src = create_data.random_network(10, 20)
 
 def process(data_source):
     if isinstance(data_source, dict):
