@@ -4,3 +4,6 @@ sessions/session-3/scripts/__pycache__/
 venv/
 sessions/session-4/__pycache__/
 sessions/session-5/scripts/__pycache__/
+*.DS_Store
+sessions/session-6/scripts/__pycache__/
+test.html

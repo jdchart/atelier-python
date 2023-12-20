@@ -9,3 +9,4 @@ _Un repo qui regroupe les ressource pour l'atelier python en humanités numériq
 3. [Les données : lecture et création](/sessions/session-3/overview.md)
 4. [Traitement et visualization des données](/sessions/session-4/overview.md)
 5. [APIs, web scraping et Classes](/sessions/session-5/overview.md)
+6. [Réseaux de neurones](/sessions/session-6/overview.md)
