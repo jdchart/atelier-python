@@ -1,0 +1,213 @@
+{
+    "version": 1,
+    "collectionsIds": [
+        "10.34847/nkl.d3563bvs"
+    ],
+    "files": [
+        {
+            "name": "R_NCL_A16_09_02_40_00001.TIF",
+            "extension": "TIF",
+            "size": 26234909,
+            "mime_type": "image/tiff",
+            "sha1": "b8809ba15fc42aecc6a19faab08cc77ce970c6bd",
+            "embargoed": "2019-01-16T00:00:00+01:00",
+            "description": null,
+            "humanReadableEmbargoedDelay": []
+        }
+    ],
+    "relations": [],
+    "status": "published",
+    "fileEmbargoed": false,
+    "citation": "Anonyme, Anonyme (2019) «Carte n°35, terrain 45» [Image] NAKALA. https://doi.org/10.34847/nkl.def2v5a2",
+    "uri": "https://doi.org/10.34847/nkl.def2v5a2",
+    "identifier": "10.34847/nkl.def2v5a2",
+    "handleIdentifier": "11280/aba1615e",
+    "metas": [
+        {
+            "value": "Carte n°35, terrain 45",
+            "lang": "fr",
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://nakala.fr/terms#title"
+        },
+        {
+            "value": null,
+            "lang": null,
+            "typeUri": null,
+            "propertyUri": "http://nakala.fr/terms#creator"
+        },
+        {
+            "value": null,
+            "lang": null,
+            "typeUri": null,
+            "propertyUri": "http://nakala.fr/terms#created"
+        },
+        {
+            "value": "CC-BY-NC-SA-4.0",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://nakala.fr/terms#license"
+        },
+        {
+            "value": "http://purl.org/coar/resource_type/c_c513",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+            "propertyUri": "http://nakala.fr/terms#type"
+        },
+        {
+            "value": "Anonyme, Anonyme",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/creator"
+        },
+        {
+            "value": "terrain foncier",
+            "lang": "fr",
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/subject"
+        },
+        {
+            "value": "1:50.000",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/subject"
+        },
+        {
+            "value": "La carte présentée n'a pas de légende, mais nous pouvons voir des courbes de niveau et des tracés comportant des numéros et des hectares. Il s'agit de terrains fonciers. Cette carte est en lien avec la carte FR_R_NCL_A16_09_02_40_00002 qui est un plan de cession du terrain, entouré ici en rouge. Les coordonnées n'étant pas présentes sur la carte, elles ont été réalisées approximativement.",
+            "lang": "fr",
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/description"
+        },
+        {
+            "value": "http://purl.org/dc/dcmitype/StillImage",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+            "propertyUri": "http://purl.org/dc/terms/type"
+        },
+        {
+            "value": "Carte foncière",
+            "lang": "fr",
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/type"
+        },
+        {
+            "value": "21,1x29,8 cm",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/format"
+        },
+        {
+            "value": "FR_R_NCL_A16_09_02_40_00001",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/identifier"
+        },
+        {
+            "value": "fr",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+            "propertyUri": "http://purl.org/dc/terms/language"
+        },
+        {
+            "value": "fr",
+            "lang": null,
+            "typeUri": "http://purl.org/dc/terms/RFC3066",
+            "propertyUri": "http://purl.org/dc/terms/language"
+        },
+        {
+            "value": "fr",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/language"
+        },
+        {
+            "value": "http://www.nakala.fr/data/11280/c21f778e",
+            "lang": null,
+            "typeUri": "http://purl.org/dc/terms/URI",
+            "propertyUri": "http://purl.org/dc/terms/relation"
+        },
+        {
+            "value": "http://sws.geonames.org/2140496/",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+            "propertyUri": "http://purl.org/dc/terms/coverage"
+        },
+        {
+            "value": "Presqu’île Kuébéni",
+            "lang": "fr",
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/coverage"
+        },
+        {
+            "value": "sans date",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/created"
+        },
+        {
+            "value": "1:50.000",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/extent"
+        },
+        {
+            "value": "Monochrome",
+            "lang": "fr",
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/medium"
+        },
+        {
+            "value": "Papier",
+            "lang": "fr",
+            "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+            "propertyUri": "http://purl.org/dc/terms/medium"
+        },
+        {
+            "value": "east=166.98236; north=-22.209485;name=Point central de la carte",
+            "lang": null,
+            "typeUri": "http://purl.org/dc/terms/Point",
+            "propertyUri": "http://purl.org/dc/terms/spatial"
+        },
+        {
+            "value": "northlimit=-22.16897; southlimit=-22.25; westlimit=166.96472; eastlimit=167",
+            "lang": null,
+            "typeUri": "http://purl.org/dc/terms/Box",
+            "propertyUri": "http://purl.org/dc/terms/spatial"
+        },
+        {
+            "value": "east=167.01667; north=-22.25;name=Presqu’île Kuébéni",
+            "lang": null,
+            "typeUri": "http://purl.org/dc/terms/Point",
+            "propertyUri": "http://purl.org/dc/terms/spatial"
+        },
+        {
+            "value": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "lang": null,
+            "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+            "propertyUri": "http://purl.org/dc/terms/license"
+        }
+    ],
+    "creDate": "2019-01-16T13:59:28+01:00",
+    "depositor": {
+        "id": "78ef5b5a-b878-496c-93c1-728b710ca6ce",
+        "name": "Shadia Kilouchi",
+        "type": "user",
+        "username": "skilouchi",
+        "givenname": "Shadia",
+        "surname": "Kilouchi",
+        "photo": null
+    },
+    "owner": {
+        "id": "78ef5b5a-b878-496c-93c1-728b710ca6ce",
+        "name": "Shadia Kilouchi",
+        "type": "user",
+        "username": "skilouchi",
+        "givenname": "Shadia",
+        "surname": "Kilouchi",
+        "photo": null
+    },
+    "isDepositor": false,
+    "isOwner": false,
+    "isAdmin": false,
+    "isEditor": false,
+    "modDate": "2019-02-14T15:14:55+01:00"
+}

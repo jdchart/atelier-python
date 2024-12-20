@@ -35,5 +35,5 @@ class NakalaAPI:
 nakala = NakalaAPI()
 utils.write_json(os.path.join(os.getcwd(), "nakala_out.json"), nakala.get_data("https://www.nakala.fr/10.34847/nkl.def2v5a2"))
 
-search = nakala.search(["carte monde", "iiif"])
+search = nakala.search(["carte monde"])
 utils.write_json(os.path.join(os.getcwd(), "nakala_search_out.json"), search)

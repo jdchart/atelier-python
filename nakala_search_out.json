@@ -1,0 +1,3055 @@
+{
+    "totalResults": 1773,
+    "datas": [
+        {
+            "status": "public",
+            "identifier": "10.34847/nkl.d7dc7x3o",
+            "metas": [
+                {
+                    "value": "MaNOMA : Manuel Numérique Ouvert de Morphologie Agraire dans le monde",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": "MaNOMA : Open digital manual of agrarian morphology in the world",
+                    "lang": "en",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": "morphologie agraire",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Archéogéographie",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "morphologie historique",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "parcellaires",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "occupation du sol",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Présentation du carnet Hypothèses MaNOMA qui héberge les contenus rassemblés sous Nakala : \r\nLe carnet \"Manuel numérique ouvert de morphologie agraire\" (ou : MaNOMA), souhaite rassembler, organiser et, ce faisant, valoriser les nombreuses contributions scientifiques qui, depuis deux ou trois décennies, se multiplient et changent progressivement les termes de l’analyse géographique des formes planimétriques dans le monde. Ainsi, la première issue de ce projet consiste à rassembler les \"matériaux\" dispersés dans des publications diverses, y compris dans des sites qui ont depuis disparu (archeogeographie.org ; formesdufoncier.org), en y donnant accès de manière directe (publication sur le carnet) ou indirecte (en donnant un lien vers HAL, NAKALA, Cairn, etc.). À ce jour, 261 fichiers (articles, études, rapports, chapitres d’ouvrages, ouvrages) qui traitent du sujet dans le monde entier sont déjà réunis et seront progressivement mis en ligne.\r\nChaque étude est résumée et commentée dans un chapeau introductif afin de préciser en quoi elle participe du renouvellement de la recherche en morphologie agraire. Le blog sera par ailleurs régulièrement alimenté, au fil de l'eau et sur plusieurs années, par de nouvelles études qui pourront trouver place dans les rubriques proposées, ou même faire évoluer le plan de l’ensemble, si nécessaire (manuel \"ouvert\"). A terme, l'objectif est de doubler ce carnet, en le synthétisant et l'analysant, par un manuel classique, c'est-à-dire rédigé et édité en version papier (sous la direction des deux responsables du carnet, M. Watteaux et G. Chouquer).\r\nCe manuel s'adresse à tous ceux qui ont en commun d’analyser des formes planimétriques de l’espace géographique et de passer par la représentation cartographique des résultats, et ceci quelle que soit leur discipline de départ. Nous posons plusieurs attendus fondamentaux. L'un est que le renouvellement de l'accès à l'information (cartes anciennes et actuelles, plans cadastraux, images satellitaires, LiDAR, etc.) est tel que des thématiques traditionnelles peuvent être réévaluées. L'autre est que l'analyse de morphologie agraire ne peut plus se satisfaire de la seule approche par périodes historiques, en raison des effets de longue durée, des transmissions, des transformations, des filtres que la durée met entre la production d'un fait planimétrique et son observation actuelle. Un autre attendu encore est que l'analyse morphologique ne peut plus se satisfaire d'une approche selon telle ou telle discipline et d'une seule, en raison des conditions de production des concepts et de l'information. Ni exclusivement géographique, ni exclusivement historique, ni exclusivement archéologique, ni exclusivement agronomique, ni exclusivement écologique, etc., l'approche doit moduler les disciplines.\r\nCompte tenu des effets de dynamique de longue ou très longue durée, ainsi que de la vie des modèles formels, MaNOMA n’a donc pas de définition chronologique et n’est pas restreint soit à des morphologies du passé, soit à des morphologies actuelles, mais bien à l’articulation des passés et du présent, des modes de transmission et des transformations que connaissent les formes. Ce qui n’interdit pas de faire le point sur des connaissances historiques périodisées, quand la matière existe.\r\nEnfin, « Nul n’entre ici s’il n’est cartographe » pourrait être la devise de MaNOMA. Il n’y a pas de meilleur moyen de lutter contre le discrédit qui a frappé l’analyse des formes que de proposer un rendu qui passe autant par la carte que par le texte. Ce manuel nuémrique se veut le lieu commun de tous ceux qui ont une sensibilité et une compétence cartographiques, chercheurs et praticiens. Il est donc ouvert aux géographes autant qu’aux géomaticiens, aux archéogéographes autant qu’aux géomètres, aux historiens des formes anciennes autant qu’aux écologues du paysage ou aux concepteurs des projets de paysage, etc. C'est pourquoi nous pensons que le carnet MaNOMA contribuera à mieux faire prendre conscience des travaux de l’école de morphologie agraire très vivante qui existe en France, et qui se place dans le sillage d’illustres devanciers, notamment géographes et historiens : Marc Bloch, André Meynier, René Lebeau, Philippe Pinchemel, etc.\r\nCompte tenu du thème abordé, ce carnet a obtenu le soutien officiel de l’Académie d’Agriculture de France dont G. Chouquer, co-éditeur du carnet MaNOMA, est membre. Les matériaux réunis constitueront un réservoir pour l’écriture de fiches de l’Encyclopédie de l’Académie, publiées en ligne sur le site de l'Académie (voir la rubrique \"Dictionnaires & Encyclopédie\").\r\nEnfin, une rubrique permettra bientôt de faire des liens vers le futur carnet PARCEDES, du nom d'un programme de recherche financé par l'ANR (2022-2024) sur la dynamique des parcellaires agraires dans la longue durée. Ce projet est porté par M. Watteaux, initiatrice du carnet MaNOMA.",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_EDITOR",
+                    "id": "7c46f630-00bf-11ec-9a1e-5254000a365d",
+                    "name": "sandrine robert",
+                    "type": "user",
+                    "username": "sandrinerobert",
+                    "givenname": "sandrine",
+                    "surname": "robert"
+                },
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8c3cb7ed-8501-11ec-bb0e-5254000a365d",
+                    "name": "Magali Watteaux",
+                    "type": "user",
+                    "username": "mwatteaux",
+                    "givenname": "Magali",
+                    "surname": "Watteaux"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8c3cb7ed-8501-11ec-bb0e-5254000a365d",
+                    "name": "Magali Watteaux",
+                    "type": "user",
+                    "username": "mwatteaux",
+                    "givenname": "Magali",
+                    "surname": "Watteaux"
+                }
+            ],
+            "creDate": "2022-02-03T16:57:33+01:00",
+            "modDate": null,
+            "datasIds": [
+                "10.34847/nkl.db5e6rf7"
+            ]
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "publicCollectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "files": [
+                {
+                    "name": "Mediterraneans_12_11.pdf",
+                    "extension": "pdf",
+                    "size": 342000,
+                    "mime_type": "application/pdf",
+                    "sha1": "53f87aeaeabb406611a301f6d3bfc0d24e765354",
+                    "embargoed": "2020-06-01T00:00:00+02:00",
+                    "description": ""
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "Corrotti, Michelle (2022) «Rendez-nous les Cap-Corsins» [Periodical] NAKALA. https://doi.org/10.34847/nkl.83b6165z",
+            "identifier": "10.34847/nkl.83b6165z",
+            "metas": [
+                {
+                    "value": "Rendez-nous les Cap-Corsins",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": "2001",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-NC-ND-4.0",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_2659",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                },
+                {
+                    "value": "Rendez-nous les Cap-Corsins",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Ici la Corse / Corsica Calling",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Corrotti, Michelle > Auteur",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/creator"
+                },
+                {
+                    "value": "Littérature",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Cinéma",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Urbain",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Ville",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Territoire",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Récits",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Mobilité résidentielle",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Mediterraneans_12_11",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Ici la Corse / Corsica Calling",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "N° 12",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "2001",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/date"
+                },
+                {
+                    "value": "Texte - Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "Article",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "application/pdf",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/format"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21777",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/identifier"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes > Mediterraneans/Méditerranéennes (Articles)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Français",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/language"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21777",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/relation"
+                },
+                {
+                    "value": "Europe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Cap Corse",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "France",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Corse",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Bastia",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "© Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/rights"
+                },
+                {
+                    "value": "Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Ici la Corse / Corsica Calling",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Europe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Cap Corse",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "France",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Corse",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Bastia",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Corrotti, Michelle : « Rendez-nous les Cap-Corsins », Revue Mediterraneans / Méditerranéennes, n° 12, « Ici la Corse / Corsica Calling », 2001.",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/bibliographicCitation"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": {
+                        "givenname": "Michelle",
+                        "surname": "Corrotti",
+                        "orcid": null,
+                        "authorId": "2c648cd1-03b1-4bd4-820b-9480457295b1",
+                        "fullName": "Michelle Corrotti"
+                    },
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                }
+            ],
+            "creDate": "2022-01-12T20:10:36+01:00",
+            "modDate": "2022-07-06T14:47:12+02:00"
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "publicCollectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "files": [
+                {
+                    "name": "Mediterraneans_12_18.pdf",
+                    "extension": "pdf",
+                    "size": 328690,
+                    "mime_type": "application/pdf",
+                    "sha1": "3fa8c4045bb3325d63f7077aa596546c3b4e40d6",
+                    "embargoed": "2020-06-01T00:00:00+02:00",
+                    "description": ""
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "Memmi, Dominique (2022) «« Je rêvais de tous... »» [Periodical] NAKALA. https://doi.org/10.34847/nkl.5a5e429y",
+            "identifier": "10.34847/nkl.5a5e429y",
+            "metas": [
+                {
+                    "value": "« Je rêvais de tous... »",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": "2001",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-NC-ND-4.0",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_2659",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                },
+                {
+                    "value": "« Je rêvais de tous... »",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Ici la Corse / Corsica Calling",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Memmi, Dominique > Auteur",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/creator"
+                },
+                {
+                    "value": "Littérature",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Poésie",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Mediterraneans_12_18",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Ici la Corse / Corsica Calling",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "N° 12",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "2001",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/date"
+                },
+                {
+                    "value": "Texte - Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "Article",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "application/pdf",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/format"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21543",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/identifier"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes > Mediterraneans/Méditerranéennes (Articles)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Français",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/language"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21543",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/relation"
+                },
+                {
+                    "value": "Europe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "France",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Corse",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "© Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/rights"
+                },
+                {
+                    "value": "Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Ici la Corse / Corsica Calling",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Europe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "France",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Corse",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Memmi, Dominique : « « Je rêvais de tous... » », Revue Mediterraneans / Méditerranéennes, n° 12, « Ici la Corse / Corsica Calling », 2001.",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/bibliographicCitation"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": {
+                        "givenname": "Dominique",
+                        "surname": "Memmi",
+                        "orcid": null,
+                        "authorId": "60053ca1-3c9a-4f5f-a7c6-8c8d28927a45",
+                        "fullName": "Dominique Memmi"
+                    },
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                }
+            ],
+            "creDate": "2022-01-12T20:11:11+01:00",
+            "modDate": "2022-07-06T14:47:12+02:00"
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "publicCollectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "files": [
+                {
+                    "name": "Mediterraneans_13_26.pdf",
+                    "extension": "pdf",
+                    "size": 619316,
+                    "mime_type": "application/pdf",
+                    "sha1": "d8b5c1d734835f0249a8967089f566af26f8dd03",
+                    "embargoed": "2020-06-01T00:00:00+02:00",
+                    "description": ""
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "Mannent, Magdeleine (2022) «CHOURMO ! Ou comment peut-on être marseillais» [Periodical] NAKALA. https://doi.org/10.34847/nkl.da3ckr7w",
+            "identifier": "10.34847/nkl.da3ckr7w",
+            "metas": [
+                {
+                    "value": "CHOURMO ! Ou comment peut-on être marseillais",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": "2002",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-NC-ND-4.0",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_2659",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                },
+                {
+                    "value": "CHOURMO ! Ou comment peut-on être marseillais",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Marseille, Derrière les façades, Probing the clichés",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Mannent, Magdeleine > Auteur",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/creator"
+                },
+                {
+                    "value": "Sociologie",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Musique",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Lutte sociale",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Associatif",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Performance",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Spectacle",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Fêtes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "N° 13",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Mediterraneans_13_26",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Marseille, Derrière les façades, Probing the clichés",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "2002",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/date"
+                },
+                {
+                    "value": "Texte - Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "Article",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "application/pdf",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/format"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21298",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/identifier"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes > Mediterraneans/Méditerranéennes (Articles)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Français",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/language"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21298",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/relation"
+                },
+                {
+                    "value": "Europe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "France",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Marseille",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "© Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/rights"
+                },
+                {
+                    "value": "Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Marseille, Derrière les façades, Probing the clichés",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Europe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "France",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Marseille",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Mannent, Magdeleine : « CHOURMO ! Ou comment peut-on être marseillais », Revue Mediterraneans / Méditerranéennes, n° 13, « Marseille, Derrière les façades, Probing the clichés », 2002.",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/bibliographicCitation"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": {
+                        "givenname": "Magdeleine",
+                        "surname": "Mannent",
+                        "orcid": null,
+                        "authorId": "4c09574d-4479-4d96-bbc2-7b9643c10a38",
+                        "fullName": "Magdeleine Mannent"
+                    },
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                }
+            ],
+            "creDate": "2022-01-12T20:19:35+01:00",
+            "modDate": "2022-07-06T14:47:12+02:00"
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "publicCollectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "files": [
+                {
+                    "name": "Mediterraneans_16_23.pdf",
+                    "extension": "pdf",
+                    "size": 682701,
+                    "mime_type": "application/pdf",
+                    "sha1": "7c00003eb9c2d061cf75682c7ef1727d14d57a3b",
+                    "embargoed": "2020-06-01T00:00:00+02:00",
+                    "description": ""
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "Ben Fadhel, Riad (2022) «L’expérience du Monde diplomatique en arabe» [Periodical] NAKALA. https://doi.org/10.34847/nkl.12efkg72",
+            "identifier": "10.34847/nkl.12efkg72",
+            "metas": [
+                {
+                    "value": "L’expérience du Monde diplomatique en arabe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": "1994",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-NC-ND-4.0",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_2659",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                },
+                {
+                    "value": "L’expérience du Monde diplomatique en arabe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Etre journaliste en Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Ben Fadhel, Riad > Auteur",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/creator"
+                },
+                {
+                    "value": "Journalisme",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Presse (La)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Medias",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Mediterraneans_16_23",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Etre journaliste en Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Hors-série",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "1994",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/date"
+                },
+                {
+                    "value": "Texte - Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "Article",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "application/pdf",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/format"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21787",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/identifier"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes > Mediterraneans/Méditerranéennes (Articles)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Français",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/language"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21787",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/relation"
+                },
+                {
+                    "value": "Monde arabe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "© Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/rights"
+                },
+                {
+                    "value": "Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Etre journaliste en Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Monde arabe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Ben Fadhel, Riad : « L’expérience du Monde diplomatique en arabe », Revue Mediterraneans / Méditerranéennes, Hors-série, « Etre journaliste en Méditerranée », 1994.",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/bibliographicCitation"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": {
+                        "givenname": "Riad",
+                        "surname": "Ben Fadhel",
+                        "orcid": null,
+                        "authorId": "33321fd0-a550-492b-bb04-a6defdc437fc",
+                        "fullName": "Riad Ben Fadhel"
+                    },
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                }
+            ],
+            "creDate": "2022-01-12T23:11:06+01:00",
+            "modDate": "2022-07-06T14:47:12+02:00"
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "publicCollectionsIds": [
+                "10.34847/nkl.c75dm27t",
+                "10.34847/nkl.cb2b1q37"
+            ],
+            "files": [
+                {
+                    "name": "Mediterraneans_16_13.pdf",
+                    "extension": "pdf",
+                    "size": 493572,
+                    "mime_type": "application/pdf",
+                    "sha1": "74e7f0b66a1b50ee49cd38ab3ea2e4024d3a3274",
+                    "embargoed": "2020-06-01T00:00:00+02:00",
+                    "description": ""
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "Stavrinides, Zenon (2022) «La place des médias chypriotes : une perspective historique» [Periodical] NAKALA. https://doi.org/10.34847/nkl.14bc8g30",
+            "identifier": "10.34847/nkl.14bc8g30",
+            "metas": [
+                {
+                    "value": "La place des médias chypriotes : une perspective historique",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": "1994",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-NC-ND-4.0",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_2659",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                },
+                {
+                    "value": "La place des médias chypriotes : une perspective historique",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Etre journaliste en Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/title"
+                },
+                {
+                    "value": "Stavrinides, Zenon > Auteur",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/creator"
+                },
+                {
+                    "value": "Journalisme",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Presse (La)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Medias",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "value": "Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Mediterraneans_16_13",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Etre journaliste en Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Hors-série",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/description"
+                },
+                {
+                    "value": "1994",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/date"
+                },
+                {
+                    "value": "Texte - Périodiques",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "Article",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/type"
+                },
+                {
+                    "value": "application/pdf",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/format"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21426",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/identifier"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes > Mediterraneans/Méditerranéennes (Articles)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/source"
+                },
+                {
+                    "value": "Français",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/language"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/idurl/1/21426",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/relation"
+                },
+                {
+                    "value": "Europe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "Chypre",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/coverage"
+                },
+                {
+                    "value": "© Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/rights"
+                },
+                {
+                    "value": "Revue Mediterraneans / Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Revue Mediterraneans/Méditerranéennes",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Etre journaliste en Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/isPartOf"
+                },
+                {
+                    "value": "Europe",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Méditerranée",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Chypre",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/spatial"
+                },
+                {
+                    "value": "Stavrinides, Zenon : « La place des médias chypriotes : une perspective historique », Revue Mediterraneans / Méditerranéennes, Hors-série, « Etre journaliste en Méditerranée », 1994.",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/bibliographicCitation"
+                },
+                {
+                    "value": "Maison méditerranéenne des sciences de l'homme, UAR 3125 (AMU/CNRS); Cité numérique de la Méditerranée (Cinumed)",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": "https://cinumed.mmsh.univ-aix.fr/",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://purl.org/dc/terms/provenance"
+                },
+                {
+                    "value": {
+                        "givenname": "Zenon",
+                        "surname": "Stavrinides",
+                        "orcid": null,
+                        "authorId": "4123b5b7-5899-483a-a09b-f2cef3b762fa",
+                        "fullName": "Zenon Stavrinides"
+                    },
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "088466a0-1818-464d-939a-0149fafc1eba",
+                    "name": "Abdelmajid Arrif",
+                    "type": "user",
+                    "username": "aarrif",
+                    "givenname": "Abdelmajid",
+                    "surname": "Arrif"
+                }
+            ],
+            "creDate": "2022-01-12T23:09:28+01:00",
+            "modDate": "2022-07-06T14:47:12+02:00"
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "016_884a.jpg",
+                    "extension": "jpg",
+                    "size": 22221889,
+                    "mime_type": "image/jpeg",
+                    "sha1": "38b8994a0c4d875fa4ee054741e38576012c0092",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97684» [Map] NAKALA. https://doi.org/10.34847/nkl.f4c768u6",
+            "identifier": "10.34847/nkl.f4c768u6",
+            "metas": [
+                {
+                    "value": "622_97684",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1884-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:00:49+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "012_894a.jpg",
+                    "extension": "jpg",
+                    "size": 19658972,
+                    "mime_type": "image/jpeg",
+                    "sha1": "8be2f7fca2882426995da6e90936aec055acafac",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97680» [Map] NAKALA. https://doi.org/10.34847/nkl.f728fm39",
+            "identifier": "10.34847/nkl.f728fm39",
+            "metas": [
+                {
+                    "value": "622_97680",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1894-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:00:33+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "007_885a.jpg",
+                    "extension": "jpg",
+                    "size": 13800191,
+                    "mime_type": "image/jpeg",
+                    "sha1": "0c105c5627855ab6dab76f6df98793d27a787eaf",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97677» [Map] NAKALA. https://doi.org/10.34847/nkl.a6bexc5t",
+            "identifier": "10.34847/nkl.a6bexc5t",
+            "metas": [
+                {
+                    "value": "622_97677",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1885-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:00:23+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "002_942a.jpg",
+                    "extension": "jpg",
+                    "size": 13956586,
+                    "mime_type": "image/jpeg",
+                    "sha1": "77bee2792b5509cfb9a6638a9e3d6017a1fdf93a",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97674» [Map] NAKALA. https://doi.org/10.34847/nkl.adbat1rl",
+            "identifier": "10.34847/nkl.adbat1rl",
+            "metas": [
+                {
+                    "value": "622_97674",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1942-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:00:13+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "023_935.jpg",
+                    "extension": "jpg",
+                    "size": 22750101,
+                    "mime_type": "image/jpeg",
+                    "sha1": "7618a7c55e86555dcd7581c0f307554c56c3ed34",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97692» [Map] NAKALA. https://doi.org/10.34847/nkl.caa00hlj",
+            "identifier": "10.34847/nkl.caa00hlj",
+            "metas": [
+                {
+                    "value": "622_97692",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1940-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:01:17+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "020_883.jpg",
+                    "extension": "jpg",
+                    "size": 18335629,
+                    "mime_type": "image/jpeg",
+                    "sha1": "c562341cded03539f3c06c455ab685caf79fbde9",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97688» [Map] NAKALA. https://doi.org/10.34847/nkl.deddnn9x",
+            "identifier": "10.34847/nkl.deddnn9x",
+            "metas": [
+                {
+                    "value": "622_97688",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1883-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:01:02+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "031_901.jpg",
+                    "extension": "jpg",
+                    "size": 26617545,
+                    "mime_type": "image/jpeg",
+                    "sha1": "876380479064dada5d03bd13c6e1eecec7bf429b",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97697» [Map] NAKALA. https://doi.org/10.34847/nkl.9caa40by",
+            "identifier": "10.34847/nkl.9caa40by",
+            "metas": [
+                {
+                    "value": "622_97697",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1907-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:01:35+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "031_911.jpg",
+                    "extension": "jpg",
+                    "size": 23817087,
+                    "mime_type": "image/jpeg",
+                    "sha1": "d398c683a7525198c8cf53ef7637ef1c0e6381b7",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97698» [Map] NAKALA. https://doi.org/10.34847/nkl.21f9xjss",
+            "identifier": "10.34847/nkl.21f9xjss",
+            "metas": [
+                {
+                    "value": "622_97698",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1921-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:01:39+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "029_901.jpg",
+                    "extension": "jpg",
+                    "size": 23286285,
+                    "mime_type": "image/jpeg",
+                    "sha1": "ff6c49392e0f670703a30b69988f9ba218c31412",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97696» [Map] NAKALA. https://doi.org/10.34847/nkl.7e9fx186",
+            "identifier": "10.34847/nkl.7e9fx186",
+            "metas": [
+                {
+                    "value": "622_97696",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1912-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:01:31+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "B29_078_34.jpg",
+                    "extension": "jpg",
+                    "size": 18535140,
+                    "mime_type": "image/jpeg",
+                    "sha1": "54762af97e25a48ff5e131f6df7f8450f4fccc4b",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «598_89296» [Map] NAKALA. https://doi.org/10.34847/nkl.0f56qb6o",
+            "identifier": "10.34847/nkl.0f56qb6o",
+            "metas": [
+                {
+                    "value": "598_89296",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1934-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:48:09+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "B29_076_30.jpg",
+                    "extension": "jpg",
+                    "size": 18608072,
+                    "mime_type": "image/jpeg",
+                    "sha1": "ad7a0c4f03f6d7a680ee939c9b970f70b624956a",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «598_89294» [Map] NAKALA. https://doi.org/10.34847/nkl.1bc8vqck",
+            "identifier": "10.34847/nkl.1bc8vqck",
+            "metas": [
+                {
+                    "value": "598_89294",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1930-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:48:19+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "B29_079_34.jpg",
+                    "extension": "jpg",
+                    "size": 17073306,
+                    "mime_type": "image/jpeg",
+                    "sha1": "7c859b8392f83512ba7d72b09b2bc0692e6862c8",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «598_89297» [Map] NAKALA. https://doi.org/10.34847/nkl.5dac9i35",
+            "identifier": "10.34847/nkl.5dac9i35",
+            "metas": [
+                {
+                    "value": "598_89297",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1934-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:48:06+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "B29_002_36.jpg",
+                    "extension": "jpg",
+                    "size": 16175213,
+                    "mime_type": "image/jpeg",
+                    "sha1": "ab8c005dac7a7e3708bb8742823b2da40105320d",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «598_89225» [Map] NAKALA. https://doi.org/10.34847/nkl.1c1dq899",
+            "identifier": "10.34847/nkl.1c1dq899",
+            "metas": [
+                {
+                    "value": "598_89225",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1936-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:48:16+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "B29_075_51.jpg",
+                    "extension": "jpg",
+                    "size": 19600142,
+                    "mime_type": "image/jpeg",
+                    "sha1": "da27d50355c9961833655c71b052baa87775b1a5",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «598_89293» [Map] NAKALA. https://doi.org/10.34847/nkl.2c268im4",
+            "identifier": "10.34847/nkl.2c268im4",
+            "metas": [
+                {
+                    "value": "598_89293",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1951-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:48:23+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "44_25.jpg",
+                    "extension": "jpg",
+                    "size": 30893371,
+                    "mime_type": "image/jpeg",
+                    "sha1": "d7dbec3a3f9a4c28e07bf7752fceeebdb08fb179",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «550_79376» [Map] NAKALA. https://doi.org/10.34847/nkl.cf81vwq3",
+            "identifier": "10.34847/nkl.cf81vwq3",
+            "metas": [
+                {
+                    "value": "550_79376",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1925-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:43:10+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "27_22.jpg",
+                    "extension": "jpg",
+                    "size": 26259127,
+                    "mime_type": "image/jpeg",
+                    "sha1": "a743d21556680fd4485c0e0ec25cf471e1f9b17d",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «550_79394» [Map] NAKALA. https://doi.org/10.34847/nkl.83ec2xgv",
+            "identifier": "10.34847/nkl.83ec2xgv",
+            "metas": [
+                {
+                    "value": "550_79394",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1922-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:42:31+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "18_23.jpg",
+                    "extension": "jpg",
+                    "size": 30316783,
+                    "mime_type": "image/jpeg",
+                    "sha1": "4733e7533860a8cc1a1ffe00e366564737058e00",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «550_79396» [Map] NAKALA. https://doi.org/10.34847/nkl.2bdbdomj",
+            "identifier": "10.34847/nkl.2bdbdomj",
+            "metas": [
+                {
+                    "value": "550_79396",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1923-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:42:51+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "16_25.jpg",
+                    "extension": "jpg",
+                    "size": 38055712,
+                    "mime_type": "image/jpeg",
+                    "sha1": "c2ef7d71b0c54ef8d7e37b44e1731db89b96e7af",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «550_79387» [Map] NAKALA. https://doi.org/10.34847/nkl.63a0d716",
+            "identifier": "10.34847/nkl.63a0d716",
+            "metas": [
+                {
+                    "value": "550_79387",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1925-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:42:45+01:00",
+            "modDate": null
+        },
+        {
+            "version": 1,
+            "collectionsIds": [
+                "10.34847/nkl.d3684jm3"
+            ],
+            "publicCollectionsIds": [],
+            "files": [
+                {
+                    "name": "270_929.jpg",
+                    "extension": "jpg",
+                    "size": 14173271,
+                    "mime_type": "image/jpeg",
+                    "sha1": "18b8ea272f44f4c9b7d8be76d2a278ded0db9f66",
+                    "embargoed": "2021-01-01T00:00:00+01:00",
+                    "description": null
+                }
+            ],
+            "relations": [],
+            "status": "published",
+            "citation": "No Author(s) (2021) «622_97805» [Map] NAKALA. https://doi.org/10.34847/nkl.a7aeiph2",
+            "identifier": "10.34847/nkl.a7aeiph2",
+            "metas": [
+                {
+                    "value": "622_97805",
+                    "lang": "fr",
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#title"
+                },
+                {
+                    "value": null,
+                    "lang": null,
+                    "typeUri": null,
+                    "propertyUri": "http://nakala.fr/terms#creator"
+                },
+                {
+                    "value": "1936-01-01",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#created"
+                },
+                {
+                    "value": "CC-BY-4.0",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+                    "propertyUri": "http://nakala.fr/terms#license"
+                },
+                {
+                    "value": "http://purl.org/coar/resource_type/c_12cd",
+                    "lang": null,
+                    "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "propertyUri": "http://nakala.fr/terms#type"
+                }
+            ],
+            "rights": [
+                {
+                    "role": "ROLE_DEPOSITOR",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                },
+                {
+                    "role": "ROLE_OWNER",
+                    "id": "8ba54ea0-c643-42b6-b6ff-28941ed50671",
+                    "name": "Romain Suarez",
+                    "type": "user",
+                    "username": "rsuarez",
+                    "givenname": "Romain",
+                    "surname": "Suarez"
+                }
+            ],
+            "creDate": "2021-11-25T14:05:44+01:00",
+            "modDate": null
+        }
+    ]
+}
